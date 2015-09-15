@@ -1,0 +1,36 @@
+body{
+	background-color:  #78d5e3;
+	font-family: ;
+	line-height: 2.25em
+}
+
+h1{
+	color: white;
+	font-size: 3.5em;
+	margin:0 3%;
+}
+
+h2{
+	margin: 0 4.5%;
+}
+
+p{
+	color: #585e5e;
+	font-size: 1.25em;
+	margin:0 4.5%;
+	line-height: 2em;
+}
+
+.what-am-i{
+	font-size: 1.5em;
+	color:purple;
+}
+
+ul{
+	list-style-type: none;
+}
+li{
+	float: left;
+	padding: 1em;
+	text-decoration: none;
+}
