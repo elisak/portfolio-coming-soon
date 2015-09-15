@@ -54,6 +54,9 @@ li{
 	padding: .5em;
 	text-decoration: none;
 }
+.unit-xs-centered {
+  margin: 0 auto;
+}
 
 @media only screen and (min-width: 38em) {
 .bottom{
@@ -63,12 +66,24 @@ li{
 
 }
 
+.unit-offset-m-3-4-text{
+/*text to float right side with position absolute*/
+  margin-left: 49%;
+  margin-top: -48%;
+  width: 35%;
+
 }
+
 @media only screen and (min-width: 60em) {
 
 .goldfish{
 	margin-left: 10%;
 
+}
+/*large screen text is floated into the top right of the image area*/
+.unit-offset-l-3-4-text{
+    margin-left: 45%;
+    margin-top: -51%;
 }
 
 

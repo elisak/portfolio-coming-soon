@@ -374,14 +374,14 @@
 .unit-offset-m-3-4 {
   margin-left: 75.0000%;
 }
-.unit-offset-m-3-4-text{
-/*text to float right side with position absolute*/
+/*.unit-offset-m-3-4-text{
+text to float right side with position absolute
   margin-left: 49%;
   margin-top: -48%;
   width: 35%;
 
 }
-
+*/
 .unit-push-m-3-4 {
   left: 75.0000%;
 }
@@ -497,10 +497,10 @@
   margin-left: 75.0000%;
 }
 /*large screen text is floated into the top right of the image area*/
-.unit-offset-l-3-4-text{
+/*.unit-offset-l-3-4-text{
     margin-left: 45%;
     margin-top: -51%;
-}
+}*/
 .unit-push-l-3-4 {
   left: 75.0000%;
 }
