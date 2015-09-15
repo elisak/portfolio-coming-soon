@@ -374,6 +374,13 @@
 .unit-offset-m-3-4 {
   margin-left: 75.0000%;
 }
+.unit-offset-m-3-4-text{
+/*text to float right side with position absolute*/
+  margin-left: 49%;
+  margin-top: -48%;
+  width: 45%;
+
+}
 
 .unit-push-m-3-4 {
   left: 75.0000%;

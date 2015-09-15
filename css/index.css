@@ -14,31 +14,46 @@ h2{
 	margin: 0 4.5%;
 }
 
+
 p{
 	color: #585e5e;
 	font-size: 1.25em;
 	margin:0 4.5%;
+	margin-right: 5%;
 	line-height: 1.25em;
 }
 
 .what-am-i{
 	font-size: 1.5em;
 	color:grey;
-	margin-top:2%;
 	margin-bottom: 3%;
+	margin-left: 3%;
+	margin-top: -1%;
 }
 
 .little-info{
-	background-color: #b8dbdb;
 	border-radius: 1em;
 	padding: 1%;
 }
 
 .goldfish{
-width: 80%;
-margin-left:4%;
+	width: 80%;
+	margin-left:4%;
 }
 
+
+@media only screen and (min-width: 60em) {
+
+.goldfish{
+	margin-left: 10%;
+}
+
+/*.little-info{
+	position: absolute;
+	line-height: .5em;
+}*/
+
+}
 ul{
 	list-style-type: none;
 }
