@@ -41,19 +41,11 @@ p{
 	margin-left:4%;
 }
 
-
-@media only screen and (min-width: 60em) {
-
-.goldfish{
-	margin-left: 10%;
+.bottom {
+    margin-top: 3em;
+    position: absolute;
 }
 
-/*.little-info{
-	position: absolute;
-	line-height: .5em;
-}*/
-
-}
 ul{
 	list-style-type: none;
 }
@@ -61,4 +53,23 @@ li{
 	float: left;
 	padding: .5em;
 	text-decoration: none;
+}
+
+@media only screen and (min-width: 38em) {
+.bottom{
+	font-size: 1.25em;
+	margin-top: 25%;
+}
+
+}
+
+}
+@media only screen and (min-width: 60em) {
+
+.goldfish{
+	margin-left: 10%;
+
+}
+
+
 }
