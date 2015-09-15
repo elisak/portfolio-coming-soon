@@ -18,12 +18,25 @@ p{
 	color: #585e5e;
 	font-size: 1.25em;
 	margin:0 4.5%;
-	line-height: 2em;
+	line-height: 1.25em;
 }
 
 .what-am-i{
 	font-size: 1.5em;
-	color:purple;
+	color:grey;
+	margin-top:2%;
+	margin-bottom: 3%;
+}
+
+.little-info{
+	background-color: #b8dbdb;
+	border-radius: 1em;
+	padding: 1%;
+}
+
+.goldfish{
+width: 80%;
+margin-left:4%;
 }
 
 ul{
@@ -31,6 +44,6 @@ ul{
 }
 li{
 	float: left;
-	padding: 1em;
+	padding: .5em;
 	text-decoration: none;
 }
